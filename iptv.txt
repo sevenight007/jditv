@@ -1,4 +1,4 @@
-央视频道2026/06/02 00:16更新,#genre#
+央视频道2026/06/04 20:52更新,#genre#
 CCTV1,http://101.66.194.124:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=0&authid=0
 CCTV1,http://101.66.194.170:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=0&authid=0
 CCTV1,http://101.66.194.199:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=0&authid=0
